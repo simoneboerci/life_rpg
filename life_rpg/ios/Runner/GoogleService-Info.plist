@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDrtAdzJmhNpqg8huZYOVCarZfsJPgtwIw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622884464848</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lifeRpg</string>
+	<key>PROJECT_ID</key>
+	<string>liferpg-aaae1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>liferpg-aaae1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622884464848:ios:c53eb6f7942d0cb1ced6d5</string>
+</dict>
+</plist>
